@@ -36,3 +36,4 @@ app.use("/tasks", taskRouter);
 app.listen(port, () => {
   console.log("server running");
 });
+console.log(uri)
